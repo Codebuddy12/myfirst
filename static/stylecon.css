@@ -1,0 +1,59 @@
+*{margin:0;
+   padding:0;
+   text-decoration: none;}
+ .uij{ display:flex;
+    background-color: #ff0024;}
+ nav{display: flex;
+     justify-content: center;
+     list-style: none;
+     margin-top: 20px;
+     }
+ .uij img{height: 38px;
+         margin-top: 10;
+         margin-left: 10;
+         border: white;
+         border-radius: 90px;
+         margin-bottom: 10;}
+ li{margin: 0px 42px;
+    color:white;
+    }
+    li:hover{ color: black;}
+ a{ font-size: 18px;
+    color:aliceblue;
+    font-family: cursive;}
+ a:hover{ color: black;}
+  body{
+   background: url('/static/dance.jpg');}
+   .uio{background: black;
+      height: 3px;
+      width: 61px;
+      margin-left: 567px;
+      margin-top: -2px;}
+  .chill{text-align: center;
+   margin-top: 67px;
+   margin-bottom: 45px;
+   color: white;
+    margin-left: 107px;
+   font-family: cursive;
+   font-size: 22px;}
+  input{margin-bottom: 45px;
+   width: 415px;
+   margin-left: 357px;
+   height: 48px;
+   border: 2px solid;
+    border-radius: 13rem;}
+  .btn{margin-left: 545px;
+   width: 89px;
+   height: 33px;
+   border: 2px solid;
+   border-radius: 21rem;
+   color: white;
+   background-color: rebeccapurple;
+   }
+   footer{background: #dbf321;}
+   footer div{display: flex;
+      justify-content: space-around;
+      margin-top: 0px;}
+   footer img{height: 114px;
+      width: 136px;
+      margin-top: 62px;}

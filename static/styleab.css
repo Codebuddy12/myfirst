@@ -1,0 +1,51 @@
+*{margin:0;
+    padding:0;
+    text-decoration: none;}
+  .uij{ display:flex;
+     background-color: #ff0024;}
+  nav{display: flex;
+      justify-content: center;
+      list-style: none;
+      margin-top: 20px;
+      }
+  .uij img{height: 38px;
+          margin-top: 10;
+          margin-left: 10;
+          border: white;
+          border-radius: 90px;
+          margin-bottom: 10;}
+  li{margin: 0px 42px;
+     color:white;
+     }
+     li:hover{ color: black;}
+  a{ font-size: 18px;
+     color:aliceblue;
+     font-family: cursive;}
+  a:hover{ color: black;}
+  .uio{background: black;
+    height: 3px;
+    width: 82px;
+    margin-left: 240px;
+    margin-top: -4px;}
+    .hello{ height: 380px;
+        display:flex;
+        flex-direction: column;
+         background: url('/static/fty2.jpg') center/cover;
+         opacity: 1;
+        justify-content: center;
+     align-content: center;
+     align-items: center;}
+ .jio{font-family: cursive;
+    font-size: 30px;
+    color: white;}
+ .lyu{display: flex;
+    margin-top: 81px;}
+  #lop{margin-left: 27px;
+    font-size: 24px;
+    font-family: cursive;
+    text-decoration: underline;}
+   #iop{margin: 12;
+      padding: 12;
+      font-size: 18px;
+  }
+  
